@@ -1,0 +1,265 @@
+
+@media  screen and (min-width:601px) {
+    
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+   
+    
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .one {
+        background-image: url(./image/pattern.png);
+        height: 100vh;
+        border-bottom-left-radius: 10vw;
+        border-bottom-right-radius: 10vw;
+        margin: 0px;
+    }
+    
+    .nommer{
+        width: 20vw;
+        position: absolute;
+        left: 20px;
+        top: 3%;
+    }
+    .boxe1 {
+        flex-direction: column;
+    }
+    
+    .doc a {
+        display: none;
+       
+        
+    }
+    .tabs{
+        display: inline;
+        position: absolute;
+        right: -20%;
+        
+    }
+    .vibs img{
+        position: absolute;
+        left: 58%;
+        top: 91%;
+        width: 8vw;  
+    }
+
+    .deo{
+        position: absolute;
+        width: 30vw;
+        top: 96%;
+        left: 10%;
+        color: white;
+       
+    }
+    .bloc-gris {
+        flex-direction: column;
+        width: 60vw;
+        margin-top: 100%;
+        margin-left: 40px;
+        
+        
+    }
+    .cap-one{
+        width: 75vw;
+        height: 55vw;
+        position: absolute;
+        left: 15%;
+        top: 10%;
+    }
+    .bloc-gris-one{
+        margin-top: 15%;
+    }
+    .bloc-gris .gold{
+        color: #FAB77A;
+        font-size: 4vw;
+        margin-bottom: 3%;
+    }
+    .bloc-gris .aliceblue{
+        font-size: 8vw;
+    }
+    .bloc-gris .alice{
+        font-size: 4vw;
+    }
+    
+    .bloc-gris button{
+        padding: 3%;
+        height: 4vh;
+        color: white;
+        border-radius: 6%;
+    }
+    .bloc-gris .cap{
+        height: 70vh;
+        
+    }
+    .boxe3 {
+        display: none;
+    }
+    
+    .boxe3 .social {
+    display: none;
+    }
+    
+    
+    .boxe3 .social .icon{
+        display: none;
+    }
+    .neige{
+        position: absolute;
+        right: 15%;
+        top: 4%;
+        width: 40%;
+     }
+     
+     .neige a{
+         color: white;
+         font-size: 85%;
+     }
+     .neige a img{
+        position:absolute;
+        right: 20%;
+        top: 7%;
+     }
+     .neige .dev{
+         display: none;
+     }
+     
+     .img {
+         position: absolute;
+         left: 30px;
+     }
+     
+     
+     .neige button {
+         color: white;
+         border-radius: 10%;
+         height: 3vh;
+         width: 5vw;
+         background: transparent;
+         border-color: white;
+         margin-top: 10px;
+     
+     }
+    .container{
+        flex-direction: column;
+    }
+    .image{
+        position: absolute;
+        top: 10%;
+        left: -10%;
+    }
+    .image-one{
+        height: 70vw;
+         margin-top: 5%;
+         position: absolute;
+          left: -40px;
+    }
+    
+    .bloc-noir{
+        height: 42vh;
+        width: 60vw;
+        background-color: #ECEDF3;
+        border-radius: 5%;
+        position: absolute;
+        left: 15%;
+        top: 110%;
+    }
+    .code img{
+    right: 3vw;
+    }
+    .cloner{
+        margin-left: 10%;
+        width: 80vw;
+        
+    }
+    .paragraphe-one{
+        color: #FAB77A;
+        font-size: 3vw;
+        margin-bottom: 3%;
+    }
+    .paragraphe-too{
+        font-size: 9vw ;
+        width: 70vw;
+    }
+    .paragraphe{
+        width: 64vw;
+        margin-top: 15%;
+    }
+    .texto{
+        margin-left: -50px;
+        margin-bottom: 5%;
+        font-size: 15px;
+        align-items: center;
+        
+    }
+
+    .codage{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 10%;
+        align-items: center;
+        
+    }
+    .titres{
+        color: #FAB77A;
+        font-size: 2vw;
+        margin-left: 10px;
+    
+    }
+    .exerce{
+        font-size: 5vw;
+    }
+    .text{
+        margin-left: -25%;
+        
+    }
+    .bloc-text{
+        margin-left: -8%;
+    }
+    .rade{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 15%;
+        align-items: center;
+        flex-direction: row;
+    }
+    .bloc-rose{
+        height: 40vh;
+        width: 15%;
+        background-color: #ECEDF3;
+        border-radius: 5%;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    
+   
+}
+
+
+
+@media screen and (max-width: 409px) {
+    
+    .bloc-gris {
+        flex-direction: column;
+        width: 60vw;
+        margin-top: 75%;
+        margin-left: 40px;
+        
+    }
+    
+    
+    .coll {
+        background-color: deeppink ;
+        border-color: deeppink;
+        width: 45%;
+        height: 3vh;
+        font-size: 55%;
+        margin-top: 10%;
+    }   
+}
