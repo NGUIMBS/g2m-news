@@ -661,7 +661,7 @@
         background-image: url("./image/pattern.png");
         background-repeat: no-repeat;
         background-size: cover;
-        height: 170vh;
+        height: 190vh;
         width: 100vw;
         flex-direction: column;
         color: white;
@@ -670,7 +670,7 @@
     }
     .footer .miss {
         background-color: white;
-        height: 80vh;
+        height: 100vh;
         width: 80vw;
         margin-left: 10%;
         margin-top: 3%;
@@ -679,18 +679,25 @@
         justify-content: space-around;
         
     }
+    .formulaire{
+        flex-direction: column;
+    }
     
     .miss .dad {
         flex-direction: column;
         justify-content: center;
         align-items: center;
         margin-top: 17%;
+        margin-left: 100px;
+        width: 20vw;
     }
     .footer .boxe1 .ones{
         flex-basis: 20%;
+        width: 70vw;
+        margin-left: -80px;
     }
     
-    .footer .boxe1 .ones p {
+    .ones p {
         margin-top: 5%;
         line-height: 30px;
     }
@@ -698,11 +705,13 @@
         margin-top: 20%;
         list-style: none;
         line-height: 30px;
+        margin-left: -140px;
     }
     .footer .boxe1 .three ul {
         margin-top: 20%;
         list-style: none;
         line-height: 30px;
+        margin-left: -140px;
     }
     
     .footer .boxe1 .social2 {
@@ -712,6 +721,7 @@
         flex-basis: 12%;
         height: 7vh;
         margin-top: -5rem;
+        margin-left: 30px;
     }
     
     .footer .boxe1 .social2 span{
@@ -731,7 +741,7 @@
         font-size: 23px;
         position: absolute;
         top: 29%;
-        left: 27%;
+        left: 10%;
     }
     .service{
         color: orange;

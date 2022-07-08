@@ -31,7 +31,7 @@
 }
 .vibs img{
     position: absolute;
-    top: 93%;
+    top: 73%;
     left: 22%;  
 }
 .vibs .deo{
@@ -179,7 +179,7 @@
 }
 .image-one{
     height: 300px;
-     margin-top: 5%;
+     top: 105px;
      position: absolute;
       margin-left: -15%;
 }
