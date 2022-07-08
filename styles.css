@@ -291,10 +291,10 @@ right: 30px;
 .judas{
     display: flex;
     justify-content: space-around;
-    margin-left: 10%;
+    margin-left: 13%;
     margin-top: 3%;
     align-items: center;
-    width: 80%;
+    width: 78%;
 }
 .juda {
     display: flex;
@@ -310,6 +310,11 @@ right: 30px;
     justify-content: center;
 }
 .juda h3{
+    font-size: 120%;
+    justify-content: space-around;
+    align-items: center;
+}
+.judas h3{
     font-size: 120%;
     justify-content: space-around;
     align-items: center;
