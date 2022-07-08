@@ -8,7 +8,7 @@
 
 .one {
     background-image: url(./image/pattern.png);
-    height: 90vh;
+    height: 100vh;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -173,8 +173,9 @@
 }
 .image{
     position: absolute;
-    top: 710px;
+    top: 131%;
     left: 35px;
+    background: red;
 }
 .image-one{
     height: 300px;
@@ -382,11 +383,8 @@ video{
     line-height: 30px;
 }
 .puc {
-    position: absolute;
-    margin-top: -900px;
     left: 130px;
     width: 500px;
-    
 }
 .seo {
     border-radius: 5%;
